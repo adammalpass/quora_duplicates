@@ -11,6 +11,7 @@ The program uses [Python2.7]. The following additional packages must be installe
 * [matplotlib]
 * [Seaborn]
 * [Xgboost]
+* [NLTK]
 
 Additionally the training and testing datasets must be downloaded from Kaggle [here] and placed in the same folder as the main notebook.
 
@@ -24,6 +25,7 @@ Additionally the training and testing datasets must be downloaded from Kaggle [h
 [Seaborn]: <https://seaborn.pydata.org/>
 [Xgboost]: <https://xgboost.readthedocs.io/en/latest/>
 [here]: <https://www.kaggle.com/c/quora-question-pairs/data>
+[NLTK]: <http://www.nltk.org/>
 
 ## Usage
 If all dependencies are installed correctly the notebook should run correctly without further modification.
